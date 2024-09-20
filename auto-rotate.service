@@ -1,0 +1,11 @@
+[Unit]
+Description=Auto-rotate Yoga Screen
+Documentation=https://github.com/mrquincle/yoga-900-auto-rotate
+
+[Service]
+Type=forking
+Environment=DISPLAY=:0
+ExecStart=/usr/local/bin/auto-rotate
+
+[Install]
+WantedBy=default.target
