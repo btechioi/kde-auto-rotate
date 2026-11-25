@@ -1,25 +1,29 @@
 <p align="center">
-  <img alt="kde-auto-rotate" src="https://img.shields.io/badge/BTechOS-kde-auto-rotate-000000?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:0055ff&height=200&section=header&text=kde-auto-rotate&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
-
-<p align="center"><b>kde-auto-rotate</b></p>
-
-<p align="center">auto rotate script foe kde</p>
 
 <p align="center">
-  <a href="https://github.com/btechioi/kde-auto-rotate">Repository</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/btechioi/kde-auto-rotate/issues">Issues</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/btechioi/kde-auto-rotate/releases">Releases</a>
+  <img src="https://img.shields.io/github/stars/btechioi/kde-auto-rotate?style=for-the-badge&color=00e1ff" /> <img src="https://img.shields.io/github/forks/btechioi/kde-auto-rotate?style=for-the-badge&color=0055ff" /> <img src="https://img.shields.io/github/license/btechioi/kde-auto-rotate?style=for-the-badge&color=00e1ff" />
 </p>
 
-## About
+<p align="center">
+  <b>auto rotate script foe kde</b>
+</p>
 
-kde-auto-rotate is part of the BTechOS ecosystem.
+---
 
-## Getting Started
+## 📖 Overview
 
-See the project documentation and source for installation and usage.
+auto rotate script foe kde
 
-## License
+---
 
-See LICENSE.
+## 🚀 Getting Started
+
+See the project source and documentation for installation and usage.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e1ff,100:0055ff&height=100&section=footer&text=BTechOS&fontSize=20&fontAlignY=50&fontColor=ffffff"/>
+</p>
