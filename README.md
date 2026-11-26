@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/btechioi/kde-auto-rotate?style=for-the-badge&color=00e1ff" /> <img src="https://img.shields.io/github/forks/btechioi/kde-auto-rotate?style=for-the-badge&color=0055ff" /> <img src="https://img.shields.io/github/license/btechioi/kde-auto-rotate?style=for-the-badge&color=00e1ff" />
-</p>
-
-<p align="center">
   <b>auto rotate script foe kde</b>
 </p>
 
